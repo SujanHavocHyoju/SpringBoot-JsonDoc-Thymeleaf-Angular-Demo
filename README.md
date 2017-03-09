@@ -1,4 +1,4 @@
-# SpringBoot-Thymeleaf-Angular-Demo
+# SpringBoot-JsonDoc-Thymeleaf-Angular-Demo
 
 Spring Boot application
 -JsonDoc
